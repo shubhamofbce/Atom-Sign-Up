@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atom AUth</string>
+    <string name="content_description">Atom App</string>
+    <string name="atomApp">Atom App</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="log_in">Login As Guest</string>
+    <string name="signUp">Sign Up</string>
+</resources>
